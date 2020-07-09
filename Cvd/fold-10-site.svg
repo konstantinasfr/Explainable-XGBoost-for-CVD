@@ -1,0 +1,41 @@
+<svg width="580" height="260" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect x="-1" y="-1" width="582" height="262" id="canvas_background" fill="#fff"/>
+  <g id="canvasGrid" display="none">
+   <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect fill="#FFAC8D" stroke-width="1.5" x="442" y="99.5" width="86" height="21" id="svg_3"/>
+  <rect fill="#729C62" stroke-width="1.5" x="127.5" y="100.4375" width="75" height="21" id="svg_7" stroke="null"/>
+  <rect fill="#AF84A3" stroke-width="1.5" x="205.5" y="100.437501" width="233" height="20.999999" id="svg_8" stroke="null"/>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" x="37.5" y="117.4375" id="svg_15" font-size="20" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" stroke="null">NoCvd:</text>
+  <text fill="#4C261D" stroke-width="0" x="473.5" y="113.4375" id="svg_16" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">test</text>
+  <text fill="#0C372C" stroke-width="0" x="151.5" y="113.4375" id="svg_17" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">valid</text>
+  <text fill="#3e2a3c" stroke-width="0" x="309.5" y="114.4375" id="svg_18" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">train</text>
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" y="193.4375" id="svg_20" font-size="20" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" stroke="null" x="38.5">Cvd:</text>
+  <text fill="#000000" stroke-width="0" x="252.5" y="60.4375" id="svg_58" font-size="22" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" font-weight="bold" stroke="null">10-fold</text>
+  <text fill="#8B4D4B" stroke-width="0" x="476.333331" y="86.375299" id="svg_147" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.9230769276618958,0,0,0.9627039432525635,3.2307690382003784,10.113641638308764) " stroke="null">468</text>
+  <text fill="#8B4D4B" stroke-width="0" x="516.5" y="93.4375" id="svg_148" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">518</text>
+  <text fill="#0C372C" stroke="null" stroke-width="0" stroke-opacity="null" x="123.5" y="94.4375" id="svg_149" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">0</text>
+  <text style="cursor: move;" fill="#0C372C" stroke="null" stroke-width="0" stroke-opacity="null" x="187.5" y="93.4375" id="svg_150" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">45</text>
+  <text fill="#805064" stroke="null" stroke-width="0" stroke-opacity="null" x="207.5" y="93.4375" id="svg_153" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">46</text>
+  <text fill="#805064" stroke-width="0" stroke-opacity="null" x="424.978327" y="82.937504" id="svg_154" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.9511450529098511,0,0,0.9473684430122375,10.2351114153862,14.07565202191472) " stroke="null">467</text>
+  <rect fill="#FFAC8D" stroke-width="1.5" x="444" y="172.5" width="86" height="21" id="svg_2"/>
+  <rect fill="#729C62" stroke-width="1.5" x="129.5" y="173.4375" width="75" height="21" id="svg_4" stroke="null"/>
+  <rect fill="#AF84A3" stroke-width="1.5" x="207.5" y="173.437501" width="233" height="20.999999" id="svg_5" stroke="null"/>
+  <text fill="#4C261D" stroke-width="0" x="475.5" y="186.4375" id="svg_6" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">test</text>
+  <text fill="#0C372C" stroke-width="0" x="153.5" y="186.4375" id="svg_9" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">valid</text>
+  <text fill="#3e2a3c" stroke-width="0" x="311.5" y="187.4375" id="svg_10" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">train</text>
+  <text style="cursor: move;" fill="#8B4D4B" stroke-width="0" x="478.499997" y="162.203388" id="svg_11" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.9230769276618958,0,0,0.9627039432525635,3.2307690382003784,10.113641638308764) " stroke="null">36</text>
+  <text style="cursor: move;" fill="#8B4D4B" stroke-width="0" x="518.5" y="166.4375" id="svg_12" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">40</text>
+  <text fill="#0C372C" stroke="null" stroke-width="0" stroke-opacity="null" x="125.5" y="167.4375" id="svg_13" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">0</text>
+  <text style="cursor: move;" fill="#0C372C" stroke="null" stroke-width="0" stroke-opacity="null" x="189.5" y="166.4375" id="svg_14" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">3</text>
+  <text style="cursor: move;" fill="#805064" stroke="null" stroke-width="0" stroke-opacity="null" x="209.5" y="166.4375" id="svg_19" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve">4</text>
+  <text style="cursor: move;" fill="#805064" stroke-width="0" stroke-opacity="null" x="427.081056" y="159.993058" id="svg_21" font-size="15" font-family="Arvo, sans-serif" text-anchor="start" xml:space="preserve" transform="matrix(0.9511450529098511,0,0,0.9473684430122375,10.2351114153862,14.07565202191472) " stroke="null">37</text>
+ </g>
+</svg>
