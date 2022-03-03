@@ -1,24 +1,12 @@
 # thesis
 
-The aim of the present thesis is the design, development and evaluation of an interpretable model
-for the assessment of the risk of Cardiovascular Disease (CVD) in patients with Type 2 Diabetes
-Mellitus (T2DM). T2DM is the most common form of DM and is characterized by elevated blood
-glucose levels due to insulin resistance and/or limited insulin secretion. Patients with T2DM are
-at an increased CVD risk and present higher CVD-related mortality rates compared to the general
-population. Although international guidelines recommend the use of predictive models to assess the
-risk of developing a first CVD event, the inability to develop models that achieve both accuracy and
-interpretability is a barrier to the adoption of predictive models in clinical practice.
-The development of the proposed interpretable model is based on the combined use of the boosting algorithm XGBoost and the Tree SHAP interpretability method. The model receives as input
-demographic, somatometric and clinical data as well as lifestyle and treatment data, and calculates the
-probability of CVD incidence within a five-year time span. In order to handle the unbalanced nature
-of the used dataset, an ensemble learning strategy is adopted towards the generation of multiple individual models, and the combination of their decisions in order to produce the final CVD risk scores.
-The same combination scheme is applied towards the interpretation of the decisions of the final (ensemble) model, by utilising the Tree SHAP method. Data collected from a 5-year follow up of 560
-T2DM individuals at the Hippokration General Hospital of Athens were used for development and
-evaluation purposes. The model’s predictive performance was measured in terms of discrimination
-and calibration, and evidence was provided on the model’s ability to produce explainable CVD risk
-scores.
+Cardiovascular Disease (CVD) is an important cause of disability and death among individuals with Diabetes Mellitus (DM). International clinical guidelines for the management of Type 2 DM (T2DM) are founded on primary and secondary prevention and favor the evaluation of CVD related risk factors towards appropriate treatment initiation. CVD risk prediction models can provide valuable tools for optimizing the frequency of medical visits and performing timely preventive and therapeutic interventions against CVD events. The integration of explainability modalities in these models can enhance human understanding on the reasoning process, maximize transparency and embellish trust towards the models' adoption in clinical practice. The aim of the present study is to develop and evaluate an explainable personalized risk prediction model for the fatal or non-fatal CVD incidence in T2DM individuals. An explainable approach based on the eXtreme Gradient Boosting (XGBoost) and the Tree SHAP (SHapley Additive exPlanations) method is deployed for the calculation of the 5-year CVD risk and the generation of individual explanations on the model's decisions. Data from the 5-year follow up of 560 patients with T2DM are used for development and evaluation purposes. The obtained results (AUC = 71.13%) indicate the potential of the proposed approach to handle the unbalanced nature of the used dataset, while providing clinically meaningful insights about the ensemble model's decision process.
 
-http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/17811
+
+
+[Thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/17811)
+[Paper](https://arxiv.org/abs/2009.06629)
+
 
 
 This paper received the Best Student Paper Award in IEEE BIBE 2020
