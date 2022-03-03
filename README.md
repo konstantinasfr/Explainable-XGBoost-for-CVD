@@ -6,7 +6,6 @@ Cardiovascular Disease (CVD) is an important cause of disability and death among
 
 
 [Full Paper](https://arxiv.org/abs/2009.06629)
-
 #### This paper received the Best Student Paper Award in IEEE BIBE 2020
 
 
